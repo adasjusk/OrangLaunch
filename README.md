@@ -4,7 +4,9 @@
   <img src="https://github.com/user-attachments/assets/452fc8c2-7aea-4cf4-877f-da04ce869d63" alt="orange">
 </p>
 
-
+# For arch linux os users
+Install yay package manager and run command and it will install automatically: <br>
+```yay -S oranglauncher-bin```
 
 # About This Minecraft Launcher
 This launcher is designed to deliver a modular, modern, and highly customizable Minecraft experience — all powered by a built‑in Python backend that keeps everything lightweight, fast, and fully scriptable.
