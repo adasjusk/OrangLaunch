@@ -48,6 +48,7 @@ You can create and switch between multiple game profiles, each with its own:
 - Ram
 And more!
 
+
 ## Resource Packs & Shaders
 
 The launcher features a tab for visual enhancements:
