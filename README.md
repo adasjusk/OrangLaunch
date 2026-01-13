@@ -1,35 +1,38 @@
 
-<h1 align="center">orange launcher</h1>
+<h1 align="center">Orange Launcher</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/452fc8c2-7aea-4cf4-877f-da04ce869d63" alt="orange">
 </p>
-
-# For arch linux os users
-Install yay package manager and run command and it will install automatically: <br>
-```yay -S oranglauncher-bin```
+---
+# Installation (Arch Linux)
+Install with **yay**:
+```bash
+yay -S oranglauncher-bin```
 
 > [!NOTE]
-> On windows it will be later because the python version is buggy and uncomfortable to use!
-> A huge rewrite awaits while linux version will be updated!
+> Currently, there is no available version for Windows because of the bad python performance on it.
+> The Windows version will be completely rewritten later on.
+> Linux version will still be updated regularly.
 
 
 # About This Minecraft Launcher
-This launcher is designed to deliver a modular, modern, and highly customizable Minecraft experience — all powered by a built‑in Python backend that keeps everything lightweight, fast, and fully scriptable.
+This launcher is designed to be a modular, modern, and highly customizable Minecraft launcher experience. It uses Python for backend that keeps everything lightweight, fast, and fully scriptable.
 
 # Accounts 
 ## Microsoft (mojang)
-This is achieved by using localhost and embeding page to qt6 env and if that fails then use browser localhost to connect. It's safe for you and me to use this, bc the launcher gets token from servers of Microsoft and not me! Token helps to indentify if you are legit owner of your account.
+This is achieved by using localhost and embedding a page in Qt6 env. If that fails, then it will use browser localhost to connect. It's safe for you to use this, because the launcher gets the token from the Microsoft servers, not from me! Token is required to indentify if you are legit owner of your account.
 
 ## Offline (cracked)
-So this simple enter username and boom you have that account, and you can use it only on cracked servers and singleplayer but you are without skin bc you cracked it! I'm not resposible for legal damage nor im not mojang or xbox studios.
+Simply enter username and boom you have that account, and you can use it only on cracked servers (`offline-mode=false`) and singleplayer. Though, you can't have a custom skin bc you cracked it! 
+I'm not resposible for any legal damage, nor im Mojang or Xbox studios.
 
 ## News Hub
 
-The launcher includes a dynamic news page that fetches and displays updates, announcements, and community info. It refreshes automatically and presents content in a clean, scroll‑friendly layout.
+The launcher includes a news page that displays every updates, announcements, and community info. It refreshes automatically every start in a clean way.
 
 ## Modding Panel
 
-- A dedicated modding tab provides:
+A dedicated modding tab provides:
 - Easy mod installation and management
 - Version‑aware mod compatibility handling
 - Automatic folder structuring for cleaner organization
@@ -39,44 +42,44 @@ The launcher includes a dynamic news page that fetches and displays updates, ann
 
 You can create and switch between multiple game profiles, each with its own:
 
-Game version
-Name
-Loader
-Version of loader
-Ram
-And more
+- Game version
+- Name
+- Loader
+- Version of loader
+- Ram
+And more!
 
 ## Resource Packs & Shaders
 
-The launcher features a unified tab for visual enhancements:
+The launcher features a tab for visual enhancements:
 
-Enable, disable, and reorder resource packs
-Manage shaders with seamless toggling
-Add shaderpacks and resourcepacks
-And remove
+Enable, disable, and reorder resource packs.
+Manage shaders with eaay toggling.
+Add/remove shaderpacks and resourcepacks
 
 ## Settings
 
 The settings interface lets you modify:
 
-Launcher general
-Accounts page
-More settings 
-About page
+- Launcher general
+- Accounts page
+- About page
+And more!
 
 ## Language Support
 
-The entire interface supports changeable languages, including community‑driven translations. Switching languages reloads the UI.
+The entire application supports changeable languages, including community‑driven translations. Switching languages reloads the whole app.
+
 ## Built‑In Python Engine
 
 The core logic of the launcher runs on Python, providing:
 
-Fast scripting integration
-Easy feature expansion
-High reliability and cross‑platform compatibility
-Modding of the launcher
-Fixing bugs faster
+- Fast scripting integration
+- Easy feature expansion
+- High reliability and cross‑platform compatibility
+- Modding of the launcher
+- Fixing bugs faster
 
-## For developers section:
-#### So for developer:
-Go to github wiki up in github website of this repo and open wiki and you will find all tutorials and examples about this and even build your own!
+## For the developers section:
+
+Go to GitHub Wiki up in the GitHub website of this repo, and open Wiki. You will find all tutorials and examples about this, and even build your own!
