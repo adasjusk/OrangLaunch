@@ -41,8 +41,8 @@ A dedicated modding tab provides:
 
 You can create and switch between multiple game profiles, each with its own:
 
-- Game version
 - Name
+- Game version
 - Loader
 - Version of loader
 - Ram
