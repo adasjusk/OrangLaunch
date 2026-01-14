@@ -19,7 +19,7 @@ This launcher is designed to be a modular, modern, and highly customizable Minec
 
 # Accounts 
 ## Microsoft (mojang)
-This is achieved by using localhost and embedding a page in Qt6 env. If that fails, then it will use browser localhost to connect. It's safe for you to use this, because the launcher gets the token from the Microsoft servers, not from me! Token is required to indentify if you are legit owner of your account.
+This is achieved by using localhost and microsoft official page. If that fails, then it will use browser to connect. It's safe for you to use this, because the launcher gets the token from the Microsoft servers, not from me! Token is required to indentify if you are legit owner of your account.
 
 ## Offline (cracked)
 Simply enter username and boom you have that account, and you can use it only on cracked servers (`offline-mode=false`) and singleplayer. Though, you can't have a custom skin bc you cracked it! 
@@ -82,4 +82,4 @@ The core logic of the launcher runs on Python, providing:
 
 ## For the developers section:
 
-Go to GitHub Wiki up in the GitHub website of this repo, and open Wiki. You will find all tutorials and examples about this, and even build your own!
+Go to GitHub Wiki up in the GitHub website of this repo, and open Wiki. You will find all tutorials and examples about this launcher, and even build your own version!
