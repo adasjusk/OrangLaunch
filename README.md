@@ -1,7 +1,7 @@
 
 <h1 align="center">Orange Launcher</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/452fc8c2-7aea-4cf4-877f-da04ce869d63" alt="orange">
+  <img src="https://github.com/user-attachments/assets/e4d63dcb-6537-4453-9375-3c8c0b3b5a50" alt="orange">
 </p>
 
 # Installation (Arch Linux)
